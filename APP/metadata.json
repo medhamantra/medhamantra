@@ -1,0 +1,7 @@
+{
+  "name": "MEDHA MANTRA",
+  "description": "Official app for MEDHA MANTRA Competitive Institute - Empowering Minds, Creating Futures. Courses, notices, faculty, results, and gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

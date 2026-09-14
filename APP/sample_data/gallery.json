@@ -1,0 +1,38 @@
+[
+  {
+    "id": "gal_1",
+    "title": "Spacious AC Classroom Lecture",
+    "category": "Classrooms",
+    "imageUrl": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=1000&q=80"
+  },
+  {
+    "id": "gal_2",
+    "title": "Weekly OMR Mock Examination Hall",
+    "category": "Examinations",
+    "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1000&q=80"
+  },
+  {
+    "id": "gal_3",
+    "title": "Study Library & Aspirants Reading Hall",
+    "category": "Library",
+    "imageUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=1000&q=80"
+  },
+  {
+    "id": "gal_4",
+    "title": "Annual Toppers Felicitation Ceremony",
+    "category": "Events",
+    "imageUrl": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=1000&q=80"
+  },
+  {
+    "id": "gal_5",
+    "title": "One-on-One Faculty Doubt Solving Session",
+    "category": "Mentorship",
+    "imageUrl": "https://images.unsplash.com/photo-1531497865144-0464ef8fb9a9?w=1000&q=80"
+  },
+  {
+    "id": "gal_6",
+    "title": "Career Counseling & Civil Service Seminar",
+    "category": "Seminars",
+    "imageUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=1000&q=80"
+  }
+]

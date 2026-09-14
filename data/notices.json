@@ -1,0 +1,74 @@
+{
+  "notices": [
+    {
+      "id": 1,
+      "title": "SSC CGL 2025 New Batch Admission Notice",
+      "date": "2025-07-10",
+      "file": "./assets/notices/ssc-cgl-new-batch.pdf",
+      "type": "PDF"
+    },
+    {
+      "id": 2,
+      "title": "IBPS PO 2025 Batch Starting - Registration Open",
+      "date": "2025-07-05",
+      "file": "./assets/notices/ibps-po-batch.pdf",
+      "type": "PDF"
+    },
+    {
+      "id": 3,
+      "title": "WBCS 2026 Early Bird Admission - Fee Discount",
+      "date": "2025-06-28",
+      "file": "./assets/notices/wbcs-early-bird.pdf",
+      "type": "PDF"
+    },
+    {
+      "id": 4,
+      "title": "Railway RRB NTPC Result Analysis & New Strategy Session",
+      "date": "2025-06-20",
+      "file": "./assets/notices/railway-ntpc-analysis.pdf",
+      "type": "PDF"
+    },
+    {
+      "id": 5,
+      "title": "MEDHA MANTRA Annual Scholarship Test 2025",
+      "date": "2025-06-15",
+      "file": "./assets/notices/scholarship-test-2025.pdf",
+      "type": "PDF"
+    },
+    {
+      "id": 6,
+      "title": "SSC CHSL 2025 Special Weekend Batch Notice",
+      "date": "2025-06-10",
+      "file": "./assets/notices/ssc-chsl-weekend.pdf",
+      "type": "PDF"
+    },
+    {
+      "id": 7,
+      "title": "Free Mock Test Series - All Competitive Exams",
+      "date": "2025-06-01",
+      "file": "./assets/notices/free-mock-test.pdf",
+      "type": "PDF"
+    },
+    {
+      "id": 8,
+      "title": "SBI Clerk 2025 Crash Course - 45 Day Intensive Program",
+      "date": "2025-05-20",
+      "file": "./assets/notices/sbi-clerk-crash.pdf",
+      "type": "PDF"
+    },
+    {
+      "id": 9,
+      "title": "Republic Day Special - 26th January Holiday Schedule",
+      "date": "2025-01-20",
+      "file": "./assets/notices/republic-day-schedule.pdf",
+      "type": "PDF"
+    },
+    {
+      "id": 10,
+      "title": "New Year Resolution - Study Plan for 2025 Aspirants",
+      "date": "2025-01-01",
+      "file": "./assets/notices/new-year-study-plan.pdf",
+      "type": "PDF"
+    }
+  ]
+}

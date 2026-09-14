@@ -1,0 +1,38 @@
+[
+  {
+    "id": "not_1",
+    "title": "New WBCS 2026-27 Weekend Batch Commences Sunday",
+    "date": "15 Sep 2026",
+    "description": "Orientation seminar and first foundation class will be held at our Memari campus from 10:30 AM. Registered aspirants are requested to collect their study kit.",
+    "documentUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "category": "Admission",
+    "isImportant": true
+  },
+  {
+    "id": "not_2",
+    "title": "WBPSC Clerkship Stage 1 Mock Test Series Schedule",
+    "date": "10 Sep 2026",
+    "description": "Comprehensive 10-Mock test series timetable published. Tests will be held every Sunday at 11:00 AM with immediate OMR evaluation and video analysis.",
+    "documentUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "category": "Exams",
+    "isImportant": true
+  },
+  {
+    "id": "not_3",
+    "title": "Free Scholarship Cum Talent Search Exam (MM-SAT)",
+    "date": "04 Sep 2026",
+    "description": "Medha Mantra Scholarship Aptitude Test offers up to 100% tuition waiver for meritorious candidates. Download registration form and syllabus details.",
+    "documentUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "category": "Scholarship",
+    "isImportant": false
+  },
+  {
+    "id": "not_4",
+    "title": "Current Affairs Monthly Capsule - August Edition Released",
+    "date": "01 Sep 2026",
+    "description": "Download our curated bilingual Current Affairs bulletin covering national, international, sports, awards, and West Bengal state initiatives.",
+    "documentUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+    "category": "Study Material",
+    "isImportant": false
+  }
+]

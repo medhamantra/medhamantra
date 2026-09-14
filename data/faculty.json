@@ -1,0 +1,47 @@
+{
+  "faculty": [
+    
+    {
+      "name": "Amitava Sarkar",
+      "subject": "Reasoning & Aptitude",
+      "qualification": "M.Tech, MBA",
+      "experience": "9 Years",
+      "photo": "./assets/faculty/amitava-sarkar.jpg"
+    },
+    {
+      "name": "Dr. Nandini Bhatt",
+      "subject": "General Awareness",
+      "qualification": "M.A, Ph.D (Political Science)",
+      "experience": "12 Years",
+      "photo": "./assets/faculty/nandini-bhatt.jpg"
+    },
+    {
+      "name": "Ravi Prasad",
+      "subject": "Quantitative Aptitude",
+      "qualification": "M.Sc (Statistics)",
+      "experience": "8 Years",
+      "photo": "./assets/faculty/ravi-prasad.jpg"
+    },
+    {
+      "name": "Anjali Mukherjee",
+      "subject": "Banking Awareness",
+      "qualification": "MBA (Finance)",
+      "experience": "7 Years",
+      "photo": "./assets/faculty/anjali-mukherjee.jpg"
+    },
+    {
+      "name": "Subrata Das",
+      "subject": "Indian Polity",
+      "qualification": "LL.B, M.A (Political Science)",
+      "experience": "10 Years",
+      "photo": "./assets/faculty/subrata-das.jpg"
+    },
+    {
+      "name": "Priti Sharma",
+      "subject": "Computer Knowledge",
+      "qualification": "M.C.A",
+      "experience": "6 Years",
+      "photo": "./assets/faculty/priti-sharma.jpg"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "results": [
+   
+    {
+      "name": "Rahul Singh",
+      "exam": "Railway RRB NTPC",
+      "rank": "Rank 312",
+      "year": "2024",
+      "initials": "RS"
+    },
+    {
+      "name": "Sneha Das",
+      "exam": "SSC CHSL",
+      "rank": "Rank 56",
+      "year": "2025",
+      "initials": "SD"
+    },
+    {
+      "name": "Vikram Choudhury",
+      "exam": "WBCS",
+      "rank": "Rank 23",
+      "year": "2024",
+      "initials": "VC"
+    },
+    {
+      "name": "Kavita Reddy",
+      "exam": "SBI PO",
+      "rank": "Rank 134",
+      "year": "2025",
+      "initials": "KR"
+    },
+    {
+      "name": "Tanmoy Paul",
+      "exam": "SSC CGL",
+      "rank": "Rank 203",
+      "year": "2024",
+      "initials": "TP"
+    },
+    {
+      "name": "Ritu Yadav",
+      "exam": "IBPS Clerk",
+      "rank": "Rank 42",
+      "year": "2025",
+      "initials": "RY"
+    }
+  ]
+}

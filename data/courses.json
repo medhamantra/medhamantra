@@ -1,0 +1,268 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "SSC CGL",
+      "category": "SSC",
+      "description": "Complete SSC CGL preparation course covering Tier-I and Tier-II with comprehensive study material, regular mock tests, and personalized doubt clearing sessions.",
+      "duration": "12 Months",
+      "mode": "Offline + Online",
+      "fee": "₹15,000",
+      "poster": "./assets/courses/ssc-cgl.jpg",
+      "subjects": [
+        "Mathematics",
+        "Reasoning",
+        "English",
+        "General Awareness"
+      ],
+      "batch": "Morning & Evening",
+      "admission": "Admission Open"
+    },
+    {
+      "id": 2,
+      "title": "SSC CHSL",
+      "category": "SSC",
+      "description": "Thorough preparation for SSC CHSL examination covering all sections with focus on speed and accuracy for Tier-I and Tier-II.",
+      "duration": "10 Months",
+      "mode": "Offline + Online",
+      "fee": "₹12,000",
+      "poster": "./assets/courses/ssc-chsl.jpg",
+      "subjects": [
+        "Mathematics",
+        "Reasoning",
+        "English",
+        "General Awareness"
+      ],
+      "batch": "Morning & Evening",
+      "admission": "Admission Open"
+    },
+    {
+      "id": 3,
+      "title": "SSC MTS",
+      "category": "SSC",
+      "description": "Foundation-level preparation for SSC Multi-Tasking Staff examination with emphasis on basic concepts and practice.",
+      "duration": "8 Months",
+      "mode": "Offline",
+      "fee": "₹8,000",
+      "poster": "./assets/courses/ssc-mts.jpg",
+      "subjects": [
+        "Mathematics",
+        "Reasoning",
+        "English",
+        "General Awareness"
+      ],
+      "batch": "Morning",
+      "admission": "Admission Open"
+    },
+    {
+      "id": 4,
+      "title": "IBPS PO",
+      "category": "Banking",
+      "description": "Comprehensive IBPS PO preparation covering Prelims, Mains, and Interview with sectional tests and full-length mocks.",
+      "duration": "10 Months",
+      "mode": "Offline + Online",
+      "fee": "₹18,000",
+      "poster": "./assets/courses/ibps-po.jpg",
+      "subjects": [
+        "Quantitative Aptitude",
+        "Reasoning",
+        "English",
+        "Banking Awareness",
+        "Computer Knowledge"
+      ],
+      "batch": "Morning & Evening",
+      "admission": "Admission Open"
+    },
+    {
+      "id": 5,
+      "title": "IBPS Clerk",
+      "category": "Banking",
+      "description": "Dedicated IBPS Clerk preparation program with focus on speed, accuracy, and time management for Prelims and Mains.",
+      "duration": "8 Months",
+      "mode": "Offline + Online",
+      "fee": "₹12,000",
+      "poster": "./assets/courses/ibps-clerk.jpg",
+      "subjects": [
+        "Quantitative Aptitude",
+        "Reasoning",
+        "English",
+        "General Awareness",
+        "Computer Knowledge"
+      ],
+      "batch": "Morning & Evening",
+      "admission": "Admission Open"
+    },
+    {
+      "id": 6,
+      "title": "SBI PO",
+      "category": "Banking",
+      "description": "Specialized SBI PO coaching covering Prelims, Mains, GD, and Interview rounds with pattern-based practice sessions.",
+      "duration": "10 Months",
+      "mode": "Offline + Online",
+      "fee": "₹18,000",
+      "poster": "./assets/courses/sbi-po.jpg",
+      "subjects": [
+        "Quantitative Aptitude",
+        "Reasoning",
+        "English",
+        "Banking Awareness",
+        "Computer Knowledge",
+        "Data Analysis"
+      ],
+      "batch": "Morning & Evening",
+      "admission": "Admission Open"
+    },
+    {
+      "id": 7,
+      "title": "SBI Clerk",
+      "category": "Banking",
+      "description": "Complete SBI Clerk preparation with topic-wise classes, daily quizzes, and comprehensive test series.",
+      "duration": "8 Months",
+      "mode": "Offline + Online",
+      "fee": "₹12,000",
+      "poster": "./assets/courses/sbi-clerk.jpg",
+      "subjects": [
+        "Quantitative Aptitude",
+        "Reasoning",
+        "English",
+        "General Awareness",
+        "Computer Knowledge"
+      ],
+      "batch": "Morning",
+      "admission": "Admission Closed"
+    },
+    {
+      "id": 8,
+      "title": "Railway RRB NTPC",
+      "category": "Railway",
+      "description": "In-depth Railway NTPC preparation covering CBT-1, CBT-2, and skill test with railway-specific general awareness modules.",
+      "duration": "10 Months",
+      "mode": "Offline + Online",
+      "fee": "₹14,000",
+      "poster": "./assets/courses/railway-rrb-ntpc.jpg",
+      "subjects": [
+        "Mathematics",
+        "Reasoning",
+        "General Awareness",
+        "General Science"
+      ],
+      "batch": "Morning & Evening",
+      "admission": "Admission Open"
+    },
+    {
+      "id": 9,
+      "title": "Railway Group D",
+      "category": "Railway",
+      "description": "Foundation to advanced level preparation for Railway Group D examination with focus on basic concepts and extensive practice.",
+      "duration": "8 Months",
+      "mode": "Offline",
+      "fee": "₹8,000",
+      "poster": "./assets/courses/railway-group-d.jpg",
+      "subjects": [
+        "Mathematics",
+        "Reasoning",
+        "General Awareness",
+        "General Science"
+      ],
+      "batch": "Morning",
+      "admission": "Admission Open"
+    },
+    {
+      "id": 10,
+      "title": "Railway ALP",
+      "category": "Railway",
+      "description": "Complete Railway Assistant Loco Pilot preparation covering CBT-1, CBT-2, and Computer Based Aptitude Test.",
+      "duration": "10 Months",
+      "mode": "Offline + Online",
+      "fee": "₹14,000",
+      "poster": "./assets/courses/railway-alp.jpg",
+      "subjects": [
+        "Mathematics",
+        "Reasoning",
+        "General Awareness",
+        "General Science",
+        "Technical Knowledge"
+      ],
+      "batch": "Evening",
+      "admission": "Admission Closed"
+    },
+    {
+      "id": 11,
+      "title": "WBCS Executive",
+      "category": "WBCS",
+      "description": "Comprehensive WBCS Executive preparation covering Prelims, Mains, and Personality Test with optional subject guidance.",
+      "duration": "18 Months",
+      "mode": "Offline + Online",
+      "fee": "₹35,000",
+      "poster": "./assets/courses/wbcs-executive.jpg",
+      "subjects": [
+        "English",
+        "Bengali",
+        "General Studies",
+        "History",
+        "Geography",
+        "Indian Polity",
+        "Economy",
+        "Science",
+        "Current Affairs"
+      ],
+      "batch": "Morning & Evening",
+      "admission": "Admission Open"
+    },
+    {
+      "id": 12,
+      "title": "WBCS Prelims Crash Course",
+      "category": "WBCS",
+      "description": "Intensive short-term course for WBCS Prelims with focused revision, rapid practice tests, and strategy sessions.",
+      "duration": "3 Months",
+      "mode": "Offline + Online",
+      "fee": "₹8,000",
+      "poster": "./assets/courses/wbcs-prelims.jpg",
+      "subjects": [
+        "English",
+        "General Studies",
+        "Current Affairs",
+        "Reasoning"
+      ],
+      "batch": "Evening",
+      "admission": "Admission Open"
+    },
+    {
+      "id": 13,
+      "title": "CSAT Foundation",
+      "category": "Other",
+      "description": "Foundation course for Civil Services Aptitude Test covering comprehension, reasoning, and basic numeracy.",
+      "duration": "6 Months",
+      "mode": "Online",
+      "fee": "₹10,000",
+      "poster": "./assets/courses/csat-foundation.jpg",
+      "subjects": [
+        "Reading Comprehension",
+        "Logical Reasoning",
+        "Data Interpretation",
+        "Basic Numeracy"
+      ],
+      "batch": "Weekend",
+      "admission": "Admission Open"
+    },
+    {
+      "id": 14,
+      "title": "State PSC Combined",
+      "category": "Other",
+      "description": "Combined preparation program for various State Public Service Commission examinations with flexible subject coverage.",
+      "duration": "12 Months",
+      "mode": "Offline + Online",
+      "fee": "₹20,000",
+      "poster": "./assets/courses/state-psc.jpg",
+      "subjects": [
+        "General Studies",
+        "English",
+        "Reasoning",
+        "Current Affairs",
+        "Subject Specific"
+      ],
+      "batch": "Morning & Evening",
+      "admission": "Admission Open"
+    }
+  ]
+}

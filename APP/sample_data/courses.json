@@ -1,0 +1,84 @@
+[
+  {
+    "id": "course_wbcs",
+    "title": "WBCS (Exe) Complete Foundation",
+    "category": "Civil Services",
+    "description": "Comprehensive one-year flagship classroom program covering WBCS Prelims (GS + English) & Mains (Compulsory & Optional guidance) with expert mentors.",
+    "duration": "12 Months",
+    "mode": "Offline Classroom / Hybrid",
+    "fee": "₹18,500 (Easy Installments Available)",
+    "poster": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800&q=80",
+    "admissionInfo": "New Weekend & Weekday batches starting this month. Walk-in to Memari campus or call 6297034796 for free demo class registration.",
+    "highlights": [
+      "Complete updated printed study material",
+      "Weekly 100-mark OMR mock tests with ranking",
+      "Dedicated current affairs monthly compendium",
+      "Interview grooming by former civil servants"
+    ]
+  },
+  {
+    "id": "course_ssc",
+    "title": "SSC CGL / CHSL / MTS Master Batch",
+    "category": "Staff Selection Commission",
+    "description": "Targeted coaching focusing on Quantitative Aptitude shortcut tricks, Reasoning mastery, English comprehension & General Awareness.",
+    "duration": "8 Months",
+    "mode": "Offline Classroom",
+    "fee": "₹12,000",
+    "poster": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&q=80",
+    "admissionInfo": "Batches running morning 8:00 AM & evening 4:30 PM. Direct admission open.",
+    "highlights": [
+      "5000+ Chapter-wise practice question bank",
+      "Speed math calculation workshops",
+      "Full-length Computer Based Test (CBT) simulations",
+      "Previous 10 years TCS exam questions solved"
+    ]
+  },
+  {
+    "id": "course_rrb",
+    "title": "Railways RRB NTPC & Group D Special",
+    "category": "Railways",
+    "description": "Complete exam oriented preparation for Non-Technical Popular Categories (NTPC), Assistant Loco Pilot (ALP), and Group D recruitments.",
+    "duration": "6 Months",
+    "mode": "Offline / Hybrid",
+    "fee": "₹9,500",
+    "poster": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+    "admissionInfo": "Limited 40 seats per batch for personalized attention. Admission ongoing.",
+    "highlights": [
+      "Intensive General Science & Numerical physics",
+      "Bi-lingual notes (Bengali & English)",
+      "Regular doubt clearance desk"
+    ]
+  },
+  {
+    "id": "course_police",
+    "title": "WB Police SI & Constable Mission Batch",
+    "category": "Police Services",
+    "description": "Rigorous coaching for West Bengal Police Sub-Inspector, Sergeant & Constable written exams along with Physical Measurement Test (PMT) guidance.",
+    "duration": "6 Months",
+    "mode": "Offline Classroom",
+    "fee": "₹8,000",
+    "poster": "https://images.unsplash.com/photo-1544717305-2782549b5136?w=800&q=80",
+    "admissionInfo": "Special physical fitness training guidance on weekends. Enroll now.",
+    "highlights": [
+      "Special focus on Bengali language paper for SI Mains",
+      "Weekly OMR practice tests",
+      "General Knowledge revision drills"
+    ]
+  },
+  {
+    "id": "course_wbpsc",
+    "title": "WBPSC Miscellaneous & Clerkship Target",
+    "category": "State Govt",
+    "description": "Dedicated batch targeting Public Service Commission Clerkship, Miscellaneous Services, Food SI, and other Group C/D government posts.",
+    "duration": "6 Months",
+    "mode": "Offline Classroom",
+    "fee": "₹9,000",
+    "poster": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80",
+    "admissionInfo": "Weekend Saturday-Sunday batch available for working aspirants.",
+    "highlights": [
+      "Descriptive writing workshop for Stage 2",
+      "Grammar fundamentals & translation exercises",
+      "State specific GK & current affairs"
+    ]
+  }
+]

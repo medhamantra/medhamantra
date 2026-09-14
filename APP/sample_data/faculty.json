@@ -1,0 +1,47 @@
+[
+  {
+    "id": "fac_1",
+    "name": "Prof. Anirban Banerjee",
+    "subject": "General Studies & Indian Polity",
+    "qualification": "M.A. (Pol Science), M.Phil, NET / SET Qualified",
+    "experience": "11+ Years Teaching WBCS & UPSC Aspirants",
+    "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500&q=80",
+    "bio": "Expert in Constitutional amendments, Article memorization techniques, and dynamic current polity analysis for civil services."
+  },
+  {
+    "id": "fac_2",
+    "name": "Dr. Sourav Mukherjee",
+    "subject": "History & Indian National Movement",
+    "qualification": "Ph.D. in Modern History, Former College Lecturer",
+    "experience": "14+ Years in Competitive Exam Coaching",
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&q=80",
+    "bio": "Known for chronological timeline storytelling methods and WBCS Mains GS Paper III question prediction."
+  },
+  {
+    "id": "fac_3",
+    "name": "Tanmoy Sen (Quant Expert)",
+    "subject": "Quantitative Aptitude & Advanced Math",
+    "qualification": "B.Tech (JU), SSC CGL 99.4 Percentiler in Quant",
+    "experience": "9+ Years Training SSC, Railway & Bank Candidates",
+    "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&q=80",
+    "bio": "Pioneer of Vedic math shortcuts, mental calculation tricks, and data interpretation hacks."
+  },
+  {
+    "id": "fac_4",
+    "name": "Soma Ghosh",
+    "subject": "English Language & Verbal Reasoning",
+    "qualification": "M.A. in English Literature (CU), B.Ed",
+    "experience": "8+ Years in Competitive English & Grammar",
+    "photo": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=500&q=80",
+    "bio": "Specializes in error detection, vocabulary roots, cloze test strategies, and descriptive essay composition."
+  },
+  {
+    "id": "fac_5",
+    "name": "Debabrata Roy",
+    "subject": "General Science & Environment",
+    "qualification": "M.Sc. (Physics), B.Sc. (Hons)",
+    "experience": "10+ Years Mentoring Railways & PSC Students",
+    "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=500&q=80",
+    "bio": "Master of practical science concepts, NCERT fundamentals, and recent technological developments."
+  }
+]
