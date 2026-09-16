@@ -1812,13 +1812,26 @@
 .banner-slider {
     position: relative;
     width: 100%;
+    aspect-ratio: 9 / 3;
     overflow: hidden;
-    border-radius: var(--radius);
-    border: 1px solid var(--border);
     background: var(--bg-secondary);
-    box-shadow: var(--shadow);
+    border-radius: 10px;
 }
 
+.banner-slide {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
 .banner-track {
     display: flex;
     width: 100%;
